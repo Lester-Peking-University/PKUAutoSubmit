@@ -1,7 +1,7 @@
 # Forked and Modified by Lester
 # PKUAutoSubmit (modified)
 
-iaaa被封锁会run失败…
+iaaa被封锁会run失败… 而且要改secrets
 
 **UPDATE 2020/10/18**
 
