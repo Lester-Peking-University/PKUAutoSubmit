@@ -3,6 +3,8 @@
 
 iaaa被封锁会run失败… 而且要改secrets
 
+### 12.23update: 不知道为什么run失败
+
 **UPDATE 2020/10/18**
 
 感谢 [hayschan](https://github.com/hayschan) 撰写的[使用文档](https://haysc.tech/2020/10/17/pku-auto-beian/)，强烈推荐在使用本项目前阅读。
